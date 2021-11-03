@@ -12,5 +12,4 @@
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I play saxophone :saxophone:
 
-## FIND ME: [@icon-fa-linkedin](https://www.linkedin.com/in/jami-travers-3393711aa/)
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
