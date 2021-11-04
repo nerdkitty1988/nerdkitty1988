@@ -13,3 +13,4 @@
 - ⚡ Fun fact: I play saxophone :saxophone:
 
 ![](https://komarev.com/ghpvc/?username=nerdkitty1988&color=dc143c&style=plastic&label=VISITORS)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nerdkitty1988)
